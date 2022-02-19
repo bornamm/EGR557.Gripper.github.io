@@ -19,7 +19,7 @@ title: EGR 557: Foldable Robotics Gripper Project
 
 ## Research Question
 
-Can a mechanically-actuated _(non-metallic)_ foldable mechanism be used as a gripper, have as much holding torque as a soft pneumatic gripper?
+Can a mechanically-actuated (non-metallic) foldable mechanism be used as a gripper, have as much holding torque as a parrot fish bite?
 
 ## Background
 
