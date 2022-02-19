@@ -1,14 +1,21 @@
 ---
-title: Home
+title: EGR 557: Foldable Robotics Gripper Project
 ---
 
 # Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+**Team members:**
+* **_Borna M._** _(bmansoo1@asu.edu)_
+* **_Awab A._** _(aasalamm@asu.edu)_
+* **_Aman D._** _(adadheec@asu.edu)_
+* **_Param O._** _(puoza@asu.edu)_
+
+## Project milestones
+* [Research Question](/background)
+* [Biomechanics Background and Initial Specification](/Biomechanics Background and Initial Specification)
+* [System Kinematics](/System Kinematics)
 
 ## Research Question
 
