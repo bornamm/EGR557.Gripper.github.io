@@ -13,9 +13,9 @@ title: EGR 557: Foldable Robotics Gripper Project
 * **_Param O._** _(puoza@asu.edu)_
 
 ## Project milestones
-* [Research Question](/background)
-* [Biomechanics Background and Initial Specification](/Biomechanics Background and Initial Specification)
-* [System Kinematics](/System Kinematics)
+* [Research Question](https://docs.google.com/document/d/1Ha8Uiep2JMpkxVQrtZwFXZW0HIIsaR5yVp42EbIovvU/edit?usp=sharing)
+* [Biomechanics Background and Initial Specification](https://docs.google.com/document/d/1LMGEz92Ehj-N889kg9gg3nCI4tA_00SYzk7LXceA_Vg/edit?usp=sharing)
+* [System Kinematics](https://colab.research.google.com/drive/17KaxnZZcgZ9umqyDV-NyMys-4oyCkL-D?usp=sharing)
 
 ## Research Question
 
@@ -25,7 +25,7 @@ title: EGR 557: Foldable Robotics Gripper Project
 
 ## Background
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![image caption](https://drive.google.com/file/d/1akYpWe07avtczfEgvyINPb6EE1yf02kW/view?usp=sharing)
 
 [link to background](/background)
 
