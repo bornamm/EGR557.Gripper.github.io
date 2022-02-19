@@ -23,7 +23,7 @@ Can a mechanically-actuated _(non-metallic)_ foldable mechanism be used as a gri
 
 ## Background
 
-![image caption](/dScratch Book-3.jpg)
+![image caption](/Scratch Book-3.jpg)
 
 [link to background](/background)
 
