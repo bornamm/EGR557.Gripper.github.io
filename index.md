@@ -14,7 +14,7 @@ title: EGR 557: Foldable Robotics Gripper Project
 
 ## Project milestones
 * [Research Question](ResearchQuestion.html)
-* [Biomechanics Background and Initial Specification](BiomechanicsBackgroundandInitialSpecification.html)
+* [Biomechanics Background and Initial Specification](Biomechanics Background and Initial Specifications/BiomechanicsBackgroundandInitialSpecification.html)
 * [System Kinematics](/UpdatedSystemKinematics.html)
 * [Presentation 1](/Presentation_1.mp4)
 
