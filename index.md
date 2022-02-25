@@ -16,7 +16,7 @@ title: EGR 557: Foldable Robotics Gripper Project
 * [Research Question](https://docs.google.com/document/d/1Ha8Uiep2JMpkxVQrtZwFXZW0HIIsaR5yVp42EbIovvU/edit?usp=sharing)
 * [Biomechanics Background and Initial Specification](https://docs.google.com/document/d/1LMGEz92Ehj-N889kg9gg3nCI4tA_00SYzk7LXceA_Vg/edit?usp=sharing)
 * [System Kinematics](/UpdatedSystemKinematics.ipynb)
-* [Presentation 1](https://docs.google.com/presentation/d/16SEXgodEM4gM0Dkp8Sye79onNjf08_RBPTe5vxoxMYk/edit)
+* [Presentation 1](/Presentation_1.mp4)
 
 ## Research Question
 
@@ -44,7 +44,7 @@ Can a mechanically-actuated (non-metallic) foldable mechanism be used as a gripp
 
 ## External Links
 
-[link to idealab](https://idealab.asu.edu)
-[link to Foldable Robotics Website](https://foldable-robotics.github.io/)
+* [link to idealab](https://idealab.asu.edu)
+* [link to Foldable Robotics Website](https://foldable-robotics.github.io/)
 
 ## References
