@@ -24,7 +24,7 @@ Can a mechanically-actuated (non-metallic) foldable mechanism be used as a gripp
 
 ## Background
 
-![image caption](/Scratch Book-3.jpg)
+* ![image caption](/Scratch Book-3.jpg)
 
 [link to background](/background.md)
 
