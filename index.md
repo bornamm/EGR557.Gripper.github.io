@@ -15,7 +15,7 @@ title: EGR 557: Foldable Robotics Gripper Project
 ## Project milestones
 * [Research Question](https://docs.google.com/document/d/1Ha8Uiep2JMpkxVQrtZwFXZW0HIIsaR5yVp42EbIovvU/edit?usp=sharing)
 * [Biomechanics Background and Initial Specification](https://docs.google.com/document/d/1LMGEz92Ehj-N889kg9gg3nCI4tA_00SYzk7LXceA_Vg/edit?usp=sharing)
-* [System Kinematics](https://github.com/bornamm/EGR557.Gripper.github.io/blob/c3dbc26c809b7ed0bebddb750cd30f41254e5896/UpdatedSystemKinematics.ipynb)
+* [System Kinematics](/UpdatedSystemKinematics.json)
 * [Presentation 1](/Presentation_1.mp4)
 
 ## Research Question
