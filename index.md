@@ -18,6 +18,10 @@ title: EGR 557: Foldable Robotics Gripper Project
 * [System Kinematics](/UpdatedSystemKinematics.html)
 * [Presentation 1](/Presentation_1.mp4)
 * [System Dynamics]
+    * [Dynamics 1](/Dynamics1.html)
+    * [Parameter ID](/ParameterID.html)
+    * [Individual Parameter ID]
+    * [Dynamics 2]
 * [Presentation 2](/recording.mp4)
 
 ## Research Question
