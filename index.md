@@ -50,8 +50,8 @@ Can a mechanically-actuated (non-metallic) foldable mechanism be used as a gripp
 
 ## Results
 
-1. Result 1
-2. Result 2
+1. Maximize gripping force by utilizing 8 rubber bands
+2. Maximize output force by attaching servo links furthest away from the center point
 
 ## Conclusions and Future Work
 
