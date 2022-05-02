@@ -10,7 +10,6 @@ title: EGR 557: Foldable Robotics Gripper Project
 * **_Borna M._** _(bmansoo1@asu.edu)_
 * **_Awab A._** _(aasalamm@asu.edu)_
 * **_Aman D._** _(adadheec@asu.edu)_
-* **_Param O._** _(puoza@asu.edu)_
 
 ## Project milestones
 * [Research Question](ResearchQuestion.html)
