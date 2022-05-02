@@ -29,7 +29,7 @@ title: EGR 557: Foldable Robotics Gripper Project
     * [Plan](/optimization_plan.html)
     * [Design Optimization]
     * [Experiment Design, Data Collection, Analysis & Conclusion]
-* [Manufacturing Planning]
+* [Manufacturing Planning](/Design&ManufacturingWorkflow.html)
 * [Presentation 3](/Finalpresentation.mp4)
 
 ## Additional Files
