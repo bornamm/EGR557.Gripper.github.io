@@ -21,7 +21,6 @@ title: EGR 557: Foldable Robotics Gripper Project
     * [Dynamics 1](/Dynamics1.html)
     * [Parameter ID Plan](/ParameterID.html)
     * [Parameter ID]
-    * [Individual Parameter ID]
     * [Dynamics 2]
 * [Presentation 2](/recording.mp4)
 * [Design Optimization, Experiment Design, Data Collection, and Analysis]
