@@ -1,5 +1,5 @@
 
-![image caption](/carbonfiber_lever.JPG)
+![image caption](/carbonfiber_lever.JPG =250x250)
 ![image caption](/dynamics1_points_output.JPG)
 ![image caption](/dynamicstwo_pointsoutput.png)
 ![image caption](/fiberglass_testing.JPG)
