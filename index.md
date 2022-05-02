@@ -33,7 +33,7 @@ title: EGR 557: Foldable Robotics Gripper Project
 * [Presentation 3](/Finalpresentation.mp4)
 
 ## Additional Files
-* [Data](/Data/Data.md)
+* [Data](/data.zip)
 * [Video/Image Gallery](/Gallery/Gallery.md)
 * [CAD & Design Files](/cadanddesignfiles.zip)
 * [Code](/finalcode.html)
