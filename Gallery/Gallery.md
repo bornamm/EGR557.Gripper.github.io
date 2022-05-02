@@ -1,3 +1,4 @@
+[Link to videos](https://www.youtube.com/watch?v=tZydyuQaU0s&list=PLXDFduYpXzyI2X-Tl9Cn01hDK1RM9j2gV)
 ![image caption](/carbonfiber_lever.JPG)
 ![image caption](/dynamics1_points_output.JPG)
 ![image caption](/dynamicstwo_pointsoutput.png)
