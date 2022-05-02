@@ -12,13 +12,13 @@ title: EGR 557: Foldable Robotics Gripper Project
 * **_Aman D._** _(adadheec@asu.edu)_
 
 ## Project milestones
-* [Research Question](ResearchQuestion.html)
-* [Biomechanics Background and Initial Specification](Biomechanics Background and Initial Specifications/BiomechanicsBackgroundandInitialSpecification.html)
+* [Research Question](/Research Question.html)
+* [Biomechanics Background and Initial Specification](/Biomechanics.html)
 * [System Kinematics](/UpdatedSystemKinematics.html)
 * [Presentation 1](/Presentation_1.mp4)
 * System Dynamics
     * [Dynamics 1](/Dynamics1.html)
-    * [Parameter ID Plan](/ParameterID.html)
+    * [Parameter ID Plan](/Parameter ID_plan.html)
     * [Parameter ID]
          * [Motor](/motor_id.html) 
          * [Spring](/spring_id.html)
@@ -26,7 +26,7 @@ title: EGR 557: Foldable Robotics Gripper Project
     * [Dynamics 2](/DynamicsII_2.html)
 * [Presentation 2](/recording.mp4)
 * [Design Optimization, Experiment Design, Data Collection, and Analysis]
-    * [Plan]
+    * [Plan](/optimization_plan.html)
     * [Design Optimization]
     * [Experiment Design, Data Collection, Analysis & Conclusion]
 * [Manufacturing Planning]
